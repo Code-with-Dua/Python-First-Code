@@ -1,2 +1,5 @@
-print("Python is successfully working hurry !")
-print("Python second attempt !")
+def hello(name):
+    print("Hello", name)
+
+
+hello("Dua")
